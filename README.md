@@ -1,19 +1,29 @@
 # 👋 Hi, I’m Sanath Thilakarathna  
 
 - 🎓 Lecturer in **Mechatronics Engineering** at CINEC Campus.  
-- 🔭 Currently exploring **robotics, embedded systems, and quantum physics**.  
-- 📚 Working on research projects in **RTOS, robot vision, and manufacturing systems**.  
+- 🔭 Interested in **robotics, embedded systems, and quantum physics**.  
+- 📚 Fascinated by **RTOS, robot vision, tactile sensing, and advanced manufacturing systems**.  
 - 🚀 Founder of:  
   - **Epistellium** – Science communication & outreach (Physics, Space, Quantum).  
   - **Numinai** – STEM learning and outreach in Sinhala.  
 - ✍️ I also share thoughts and articles on [Medium](https://medium.com/@sanathkt).  
+- 🌐 Personal Website: [sanaththilakarathna.me](https://sanaththilakarathna.me)  
 
 ---
 
-## 📊 GitHub Stats
-![Sanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanath-thilakarathna&show_icons=true&theme=radical)
+## 🤖 Academic & Research Interests  
+- Robotics and Mechatronic Systems  
+- Embedded Systems & Microcontrollers  
+- Real-Time Operating Systems (RTOS)  
+- Robot Vision & Multi-Sensor Fusion  
+- Quantum Computing & Quantum Mechanics  
+- Industrial Automation & Control Systems  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanath-thilakarathna&layout=compact)
+---
+
+## 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanath-thilakarathna&layout=compact)  
 
 ---
 
