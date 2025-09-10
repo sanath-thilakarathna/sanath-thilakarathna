@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanatht-hilakarathna&show_icons=true&theme=radical)
+![Sanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanath-thilakarathna&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanath-thilakarathna&layout=compact)
 
