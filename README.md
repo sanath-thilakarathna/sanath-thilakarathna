@@ -1,23 +1,30 @@
 # 👋 Hi, I’m Sanath Thilakarathna  
 
-- 🎓 Lecturer in **Mechatronics Engineering** at CINEC Campus.  
-- 🔭 Interested in **robotics, embedded systems, and quantum physics**.  
-- 📚 Fascinated by **RTOS, robot vision, tactile sensing, and advanced manufacturing systems**.  
-- 🚀 Founder of:  
-  - **Epistellium** – Science communication & outreach (Physics, Space, Quantum).  
-  - **Numinai** – STEM learning and outreach in Sinhala.  
-- ✍️ I also share thoughts and articles on [Medium](https://medium.com/@sanathkt).  
-- 🌐 Personal Website: [sanaththilakarathna.me](https://sanaththilakarathna.me)  
+- 🎓 Lecturer in **Mechatronics Engineering** at CINEC Campus  
+- 🔬 Research interests in **robotics, embedded systems, and computational engineering**  
+- 📚 Currently exploring **RTOS design, robot vision, tactile sensing, and intelligent manufacturing systems**  
+- ✍️ Writing technical articles on [Medium](https://medium.com/@sanathkt)  
+- 🌐 Website: [sanaththilakarathna.me](https://sanaththilakarathna.me)  
 
 ---
 
 ## 🤖 Academic & Research Interests  
-- Robotics and Mechatronic Systems  
-- Embedded Systems & Microcontrollers  
+
+- Robotics and Mechatronic System Design  
+- Embedded Systems and Microcontroller Architectures  
 - Real-Time Operating Systems (RTOS)  
-- Robot Vision & Multi-Sensor Fusion  
-- Quantum Computing & Quantum Mechanics  
-- Industrial Automation & Control Systems  
+- Robot Vision and Multi-Sensor Fusion  
+- Machine Learning in Engineering Systems  
+- Industrial Automation and Control Engineering  
+
+---
+
+## 🧪 Current Research Directions  
+
+- Real-time system design for resource-constrained microcontrollers  
+- Vision-based perception for robotic systems  
+- Integration of machine learning into manufacturing processes
+- Bio Inspired Robot Navigation
 
 ---
 
@@ -26,5 +33,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanath-thilakarathna&layout=compact)  
 
 ---
-
-✨ *Fun fact: I love blending engineering with storytelling.* ✨
