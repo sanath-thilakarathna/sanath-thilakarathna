@@ -4,7 +4,7 @@
 - 🔬 Research interests in **robotics, embedded systems, and computational engineering**  
 - 📚 Currently exploring **RTOS design, robot vision, tactile sensing, and intelligent manufacturing systems**  
 - ✍️ Writing technical articles on [Medium](https://medium.com/@sanathkt)  
-- 🌐 Website: [sanaththilakarathna.me](https://sanaththilakarathna.me)  
+- 🌐 Website: [sanatht.me](https://sanatht.me)  
 
 ---
 
